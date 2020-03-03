@@ -1,0 +1,12 @@
+{
+  "name": "my-project",
+  "description": "...",
+  "author": "John Doe <jdoe@mail.com>",
+  "dependencies": {
+    "async": "2.6.x",
+    "q": "1.x",
+    "walk-sync": "^2.0.2",
+    "walkdir": "^0.4.1"
+  },
+  "engine": "node >= 8.9.x"
+}
